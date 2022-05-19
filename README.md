@@ -24,7 +24,7 @@ ffmpeg (http://manpages.ubuntu.com/manpages/focal/en/man1/ffmpeg.1.html)
 7zip (7z)
 
 Sample site:
-https://webcam.timbrown.us/
+http://webcam.timbrown.us/
 
 My locations are:
 Apache2 Web directory: /var/www/webcam
